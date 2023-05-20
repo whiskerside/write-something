@@ -1,6 +1,6 @@
 baseURL = '/'
 languageCode = 'en-us'
-title = 'Maverick'
+title = 'Write Something'
 paginate = 3
 theme = 'maverick'
 
